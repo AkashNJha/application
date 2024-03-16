@@ -1,2 +1,3 @@
 This is a FileA
 This is a change to file
+Makin aNOTHER CHANGE
